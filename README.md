@@ -16,9 +16,9 @@
 [discussions]: <https://github.com/NOVA-IMS-Innovation-and-Analytics-Lab/MapIntel/discussions>
 [discussions badge]: <https://img.shields.io/github/discussions/NOVA-IMS-Innovation-and-Analytics-Lab/MapIntel>
 [ci]: <https://github.com/NOVA-IMS-Innovation-and-Analytics-Lab/MapIntel/actions?query=workflow>
-[ci badge]: <https://github.com/NOVA-IMS-Innovation-and-Analytics-Lab/MapIntel/actions/workflows/ci.yml/badge.svg>
+[ci badge]: <https://github.com/NOVA-IMS-Innovation-and-Analytics-Lab/MapIntel/actions/workflows/ci.yml/badge.svg?branch=main>
 [doc]: <https://github.com/NOVA-IMS-Innovation-and-Analytics-Lab/MapIntel/actions?query=workflow>
-[doc badge]: <https://github.com/NOVA-IMS-Innovation-and-Analytics-Lab/MapIntel/actions/workflows/doc.yml/badge.svg?branch=master>
+[doc badge]: <https://github.com/NOVA-IMS-Innovation-and-Analytics-Lab/MapIntel/actions/workflows/doc.yml/badge.svg?branch=main>
 
 # MapIntel
 
