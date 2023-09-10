@@ -1,0 +1,19 @@
+_commit: 0.6.5
+_src_path: gh:georgedouzas/copier-pdm-nox.git
+author_email: gdouzas@icloud.com
+author_fullname: Georgios Douzas
+author_username: georgedouzas
+copyright_date: '2021'
+copyright_holder: Georgios Douzas
+copyright_holder_email: gdouzas@icloud.com
+copyright_license: MIT License
+project_description: MapIntel is a system for acquiring intelligence from vast collections
+    of text data by representing each document as a multidimensional vector that captures
+    its own semantics. The system is designed to handle complex Natural Language queries,
+    Q&A interaction with a LLM and visual exploration of the corpus.
+python_package_distribution_name: mapintel
+python_package_import_name: mapintel
+python_versions: '>=3.10, <=3.11'
+repository_name: MapIntel
+repository_namespace: NOVA-IMS-Innovation-and-Analytics-Lab
+
