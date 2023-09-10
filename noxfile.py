@@ -8,7 +8,7 @@ from typing import Any
 
 import nox
 
-os.environ.update({'PDM_IGNORE_SAVED_PYTHON': '1', 'PDM_IGNORE_ACTIVE_VENV': '1'})
+os.environ.update({'PDM_IGNORE_SAVED_PYTHON': '1'})
 
 PYTHON_VERSIONS: list[str] = ['3.10', '3.11']
 FILES: list[str] = ['src', 'tests', 'docs', 'noxfile.py']
